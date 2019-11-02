@@ -32,6 +32,13 @@
         "Skip animation": "Skip animation",
         "Try again": "Try again",
         "Check your inventory": "Check your inventory",
-        "Rarity": "Rarity"
+        "Rarity": "Rarity",
+        "user_got_inventory_item": "Opened case",
+        "user_requested_skin": "Requested transfer",
+        "staff_locked_inventory_item": "Processed by staff",
+        "staff_closed_inventory_item": "Transfered skin",
+        "From case": "From case",
+        "Show details": "Show details",
+        "Sold for T-Coins": "Sold for T-Coins"
     }
 }
